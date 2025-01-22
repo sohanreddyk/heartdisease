@@ -1,1 +1,1 @@
-# heartdisease
+# Prediction 101
